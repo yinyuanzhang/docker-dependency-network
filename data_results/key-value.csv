@@ -1,0 +1,101 @@
+﻿image,type
+openresty,Tools/Services
+composer,Tools/Services
+cloud-sdk,Tools/Services
+tidyverse,Tools/Services
+shiny,Tools/Services
+rstudio,Tools/Services
+redis,Tools/Services
+postgres,Tools/Services
+mysql,Tools/Services
+mongo,Tools/Services
+maven,Tools/Services
+mariadb,Tools/Services
+logstash,Tools/Services
+kibana,Tools/Services
+jenkins,Tools/Services
+gradle,Tools/Services
+gcc,Tools/Services
+fluentd,Tools/Services
+docker-base,Tools/Services
+docker,Tools/Services
+dind,Tools/Services
+ansible,Tools/Services
+wordpress,Tools/Services
+wildfly,Tools/Services
+tomcat,Tools/Services
+scipy-notebook,Tools/Services
+r-base,Tools/Services
+rabbitmq,Tools/Services
+nginx-proxy,Tools/Services
+nginx-php-fpm,Tools/Services
+nginx-php,Tools/Services
+nginx,Tools/Services
+minimal-notebook,Tools/Services
+miniconda3,Tools/Services
+miniconda,Tools/Services
+httpd,Tools/Services
+haproxy,Tools/Services
+elasticsearch,Tools/Services
+docker-nginx,Tools/Services
+datascience-notebook,Tools/Services
+apache-php,Tools/Services
+apache,Tools/Services
+ubuntu-debootstrap,Other
+aspnetcore-build,Other
+scratch,Other
+buildpack-deps,Other
+baseimage,Other
+base,Other
+busybox,Other
+php-fpm,Other
+ubuntu-base,Operating Systems
+ubuntu,Operating Systems
+rpi-raspbian,Operating Systems
+ros,Operating Systems
+oraclelinux,Operating Systems
+opensuse,Operating Systems
+minideb-extras,Operating Systems
+minideb,Operating Systems
+kali-linux-docker,Operating Systems
+fedora,Operating Systems
+debian,Operating Systems
+centos7,Operating Systems
+centos,Operating Systems
+base-centos7,Operating Systems
+base-alpine,Operating Systems
+archlinux,Operating Systems
+android,Operating Systems
+amazonlinux,Operating Systems
+alpine-glibc,Operating Systems
+alpine-base,Operating Systems
+alpine,Operating Systems
+nodejs,Language Runtime
+node,Language Runtime
+alpine-node,Language Runtime
+rust,Language Runtime
+ruby,Language Runtime
+python,Language Runtime
+php,Language Runtime
+perl,Language Runtime
+openjdk,Language Runtime
+java8,Language Runtime
+java,Language Runtime
+haskell,Language Runtime
+golang,Language Runtime
+elixir,Language Runtime
+clojure,Language Runtime
+base-jdk,Language Runtime
+alpine-oraclejdk8,Language Runtime
+alpine-java,Language Runtime
+tensorflow,Application Infrastructure/Frameworks
+spark,Application Infrastructure/Frameworks
+rails,Application Infrastructure/Frameworks
+mono,Application Infrastructure/Frameworks
+meteord,Application Infrastructure/Frameworks
+lamp,Application Infrastructure/Frameworks
+drupal,Application Infrastructure/Frameworks
+dotnet,Application Infrastructure/Frameworks
+cuda,Application Infrastructure/Frameworks
+biocontainers,Application Infrastructure/Frameworks
+aspnetcore,Application Infrastructure/Frameworks
